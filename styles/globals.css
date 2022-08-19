@@ -1,5 +1,6 @@
 body {
   background: blue;
+  
   .div {
     background: red;
     size: 400px;

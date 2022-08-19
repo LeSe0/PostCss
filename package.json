@@ -15,6 +15,9 @@
     "postcss-short-size": "^4.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "stylelint": "^14.10.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^27.0.0",
     "webpack": "^5.74.0"
   },
   "devDependencies": {

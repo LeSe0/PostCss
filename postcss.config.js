@@ -4,6 +4,7 @@ module.exports = {
     "postcss-url",
     "postcss-nested",
     "postcss-short",
+    "stylelint",
     [
       "postcss-preset-env",
       {
